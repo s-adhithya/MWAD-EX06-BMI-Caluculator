@@ -1,6 +1,4 @@
 # Ex06 BMI Calculator
-## Date:
-
 ## AIM
 To create a BMI calculator using React Router 
 
@@ -154,6 +152,7 @@ footer {
 ```
 
 ## OUTPUT
+<img width="940" height="924" alt="image" src="https://github.com/user-attachments/assets/f2149717-2a9f-4e43-b33c-82b0aabdf6d9" />
 
 
 ## RESULT
